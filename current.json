@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 27.56,
+    "lat": 53.9
+  },
+  "weather": [
+    {
+      "id": 600,
+      "main": "Snow",
+      "description": "light snow",
+      "icon": "13n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 263.15,
+    "pressure": 1006,
+    "humidity": 78,
+    "temp_min": 263.15,
+    "temp_max": 263.15
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 8,
+    "deg": 130
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1516136400,
+  "sys": {
+    "type": 1,
+    "id": 7378,
+    "message": 0.0024,
+    "country": "BY",
+    "sunrise": 1516083478,
+    "sunset": 1516112524
+  },
+  "id": 625144,
+  "name": "Minsk",
+  "cod": 200
+}
